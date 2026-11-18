@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0905-sort-array-by-parity) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
