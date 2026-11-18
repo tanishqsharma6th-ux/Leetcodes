@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -61,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
