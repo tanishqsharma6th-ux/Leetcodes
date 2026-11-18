@@ -3,7 +3,7 @@ import java.util.Deque;
 
 class Solution {
     public boolean isValid(String s) {
-       
+        // Odd-length strings can never be balanced
         if (s.length() % 2 != 0) {
             return false;
         }
@@ -25,3 +25,4 @@ class Solution {
         return stack.isEmpty();
     }
 }
+
