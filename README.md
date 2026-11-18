@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -52,8 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0155-min-stack) |
+| [2390-removing-stars-from-a-string](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
