@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0070-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
