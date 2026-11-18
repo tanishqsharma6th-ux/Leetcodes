@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0009-palindrome-number) |
 ## Sorting
 |  |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/2390-removing-stars-from-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
