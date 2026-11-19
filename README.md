@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0905-sort-array-by-parity) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0011-container-with-most-water) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0905-sort-array-by-parity) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String
 |  |
 | ------- |
