@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0905-sort-array-by-parity) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
