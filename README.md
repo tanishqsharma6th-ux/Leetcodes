@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0035-search-insert-position) |
+| [0064-minimum-path-sum](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0064-minimum-path-sum) |
 | [0283-move-zeroes](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0682-baseball-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
