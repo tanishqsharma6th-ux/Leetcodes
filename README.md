@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0035-search-insert-position) |
 | [0064-minimum-path-sum](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0682-baseball-game) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0905-sort-array-by-parity) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/0905-sort-array-by-parity) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tanishqsharma6th-ux/Leetcodes/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String
